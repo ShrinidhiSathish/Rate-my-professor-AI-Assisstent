@@ -1,0 +1,25 @@
+{
+    "reviews": [
+      {"professor": "Dr. John Smith", "subject": "Physics", "stars": 4, "review": "Explains concepts clearly but can be strict with deadlines."},
+      {"professor": "Dr. Emily Johnson", "subject": "Mathematics", "stars": 5, "review": "Makes math fun and easy to understand. Highly recommend!"},
+      {"professor": "Dr. William Brown", "subject": "Chemistry", "stars": 3, "review": "Knowledgeable but lectures are a bit dry."},
+      {"professor": "Dr. Jessica Davis", "subject": "Biology", "stars": 4, "review": "Engaging and enthusiastic about the subject."},
+      {"professor": "Dr. Michael Wilson", "subject": "Computer Science", "stars": 5, "review": "Very helpful and offers great coding tips."},
+      {"professor": "Dr. Sarah Moore", "subject": "History", "stars": 2, "review": "Hard to follow, lectures can be disorganized."},
+      {"professor": "Dr. David Taylor", "subject": "Philosophy", "stars": 4, "review": "Encourages critical thinking and discussions."},
+      {"professor": "Dr. Lisa Anderson", "subject": "Psychology", "stars": 5, "review": "Inspiring lectures and very approachable."},
+      {"professor": "Dr. James Thomas", "subject": "Economics", "stars": 3, "review": "Average teaching style, but the material is tough."},
+      {"professor": "Dr. Karen Martin", "subject": "Sociology", "stars": 4, "review": "Insightful lectures with real-world applications."},
+      {"professor": "Dr. Robert Jackson", "subject": "Art History", "stars": 5, "review": "Passionate about art and makes the class enjoyable."},
+      {"professor": "Dr. Nancy White", "subject": "English Literature", "stars": 4, "review": "Very knowledgeable but gives a lot of reading."},
+      {"professor": "Dr. Charles Harris", "subject": "Political Science", "stars": 3, "review": "Interesting but sometimes gets off-topic."},
+      {"professor": "Dr. Margaret Martin", "subject": "Linguistics", "stars": 5, "review": "Amazing professor with a deep understanding of language."},
+      {"professor": "Dr. Thomas Thompson", "subject": "Engineering", "stars": 2, "review": "Difficult exams and unclear explanations."},
+      {"professor": "Dr. Jennifer Garcia", "subject": "Statistics", "stars": 4, "review": "Great at simplifying complex concepts."},
+      {"professor": "Dr. Paul Martinez", "subject": "Anthropology", "stars": 3, "review": "Interesting material, but the lectures can be monotonous."},
+      {"professor": "Dr. Patricia Robinson", "subject": "Environmental Science", "stars": 5, "review": "Very passionate about the subject and engaging."},
+      {"professor": "Dr. Christopher Lewis", "subject": "Music Theory", "stars": 4, "review": "Energetic and brings life to the subject."},
+      {"professor": "Dr. Linda Clark", "subject": "Theology", "stars": 3, "review": "Has a unique perspective but the course is very reading-intensive."}
+    ]
+  }
+  
